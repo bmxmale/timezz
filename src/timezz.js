@@ -1,5 +1,5 @@
 /*!
- * TimezZ v4.0.0: Plugin for countdown and count forward
+ * TimezZ v4.0.1: Plugin for countdown and count forward
  *
  * Contribute: https://github.com/BrooonS/TimezZ
  * Released under the MIT license: http://opensource.org/licenses/MIT
